@@ -1,4 +1,4 @@
-# Operation XX - [Title]
+# Operation Name
 
 ## Summary
 
